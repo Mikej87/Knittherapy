@@ -1,0 +1,101 @@
+h1 {
+    background-image: url('Yarn1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-size: 120px;
+    font-style: oblique;
+    color:rgb(244, 14, 95);
+    position: right;
+}
+
+border {
+    text-align: center;
+    position: relative;
+    font-size: large;
+    border-width: 100%;
+    border-color: black;
+    border-style: groove;
+    width: 100%;
+    padding-left: 80%;
+    
+}
+h2 {
+
+    
+    left: 700px;
+    top: 300px;
+    background-image: url('Coffee Knit.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h3 {
+    
+    background-image: url(Colorful\ Yarn.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    position: top;
+    left: 900px;
+    bottom: 600px;
+    text-align: center;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(58, 2, 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p:nth-of-type(1){ background-image: url('Love yarn.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    color:rgb(58, 2, 2);
+   position: top;
+   
+}
+
+p:nth-of-type(2) {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    color:blueviolet;
+}
+
+footer { 
+    background-image: url('Yellow Yarn.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    font-size: xx-large;
+} 
+
+
+
+
+
