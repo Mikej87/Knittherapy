@@ -2,7 +2,7 @@ h1 {
     background-image: url('Yarn1.jpg');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     height: 100%;
     width: 100%;
     text-align: center;
@@ -17,8 +17,12 @@ h1 {
     top: 0;
     text-align: center;
     size: 25px;
-    border: 100px solid;
+    border: 50px solid;
     background-color: black;
+    font-size: 40px;
+    display: flex;
+    justify-content: space-between;
+    
 }
 
 h2 {
@@ -66,6 +70,8 @@ h4 {
     text-align: center;
     font-size: 80px;
     color:blueviolet;
+    text-underline-position: below;
+    background-image: url(WomanKnit.jpg.jpg);
 }
 
 
@@ -86,8 +92,11 @@ p:nth-of-type(1){ background-image: url('Love yarn.jpg');
 p:nth-of-type(2) {
     text-align: center;
     font-size: 50px;
-    font-family: cursive;
-    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+    background-image: url(WomanKnit.jpg.jpg);
+    background-repeat: repeat;
+    background-size: contain;
 }
 
 footer { 
@@ -97,8 +106,9 @@ footer {
     background-repeat: no-repeat;
     height: 250px;
     width: 100%;
-    text-align: center bottom;
+    text-align: center;
     font-size: 50px;
+    font-style: oblique;
 } 
 
 
