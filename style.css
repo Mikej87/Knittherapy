@@ -17,6 +17,8 @@ h1 {
     top: 0;
     text-align: center;
     size: 25px;
+    border: 100px solid;
+    background-color: black;
 }
 
 h2 {
@@ -75,8 +77,8 @@ p:nth-of-type(1){ background-image: url('Love yarn.jpg');
     width: 100%;
     text-align: center;
     font-size: 70px;
-    font-style: italic;
-    color:rgb(58, 2, 2);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
    position: top;
    
 }
@@ -96,7 +98,7 @@ footer {
     height: 250px;
     width: 100%;
     text-align: center bottom;
-    font-size: 80px;
+    font-size: 50px;
 } 
 
 
